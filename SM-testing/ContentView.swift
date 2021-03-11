@@ -21,6 +21,7 @@ struct ContentView: View {
       // First show
       showTestMessage()
       print("DISMISS OR TAP ON MESSAGE NOW")
+    
       
       // Second show
       DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
