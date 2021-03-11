@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+import Combine
+import SwiftMessages
 
 @main
 struct SM_testingApp: App {
